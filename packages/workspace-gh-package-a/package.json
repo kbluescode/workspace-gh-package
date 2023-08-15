@@ -1,0 +1,19 @@
+{
+  "name": "@kbluescode/workspace-gh-package-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbluescode/workspace-gh-package.git"
+  },
+  "author": "kbluescode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbluescode/workspace-gh-package/issues"
+  },
+  "homepage": "https://github.com/kbluescode/workspace-gh-package#readme"
+}
